@@ -21,6 +21,8 @@ Icons from [Weather Icons](https://erikflowers.github.io/weather-icons/)
 🔮 Plans for future:
 - toast notification after copying the weather info ☠️
 - creating more app-like experience
+- adding favicon,
+- possibility of changing city
 
 ### Technical background
 I use [vue-cli](https://cli.vuejs.org/) to develop interface with [webpack-simple template](https://github.com/vuejs-templates/webpack-simple).
