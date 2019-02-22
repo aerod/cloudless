@@ -5,8 +5,8 @@
 ## Intro
 
 Hi!
-When I moved far away from hometown, my mum started checked the weather forecast for me. 
-Now I want to help people like my mum, so I create this web app, where you can check weather and send ready message to your loved ones.
+When I moved far away from home, my mum started checking the weather forecast for me.
+Now I want to help more people like my mum, so I decided to create this web app, where you can check the weather and send complete message to your loved ones.
 
 ## Simplest Case Study Ever
 
