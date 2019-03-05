@@ -34,7 +34,7 @@ I use [vue-cli](https://cli.vuejs.org/) to develop interface with [webpack-simpl
 - add support for older browsers
 
 🔮 Plans for future:
-~~- adding tests with JEST ☠️  (This emoji means, that Im ashamed of a lack of tests)~~
+- ~~adding tests with JEST ☠️  (This emoji means, that Im ashamed of a lack of tests)~~
 - adding scss-lint & eslint ☠️
 - creating configuration files for production and development (now there are in webpack.config.js)
 - converting app to Progressive Web App
